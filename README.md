@@ -10,7 +10,7 @@
   </div>
 
 <h1 >
-  <h1 align="bottom-center">
+  <h1 align="bottom_center">
 Hi,I'm Dimitar!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
