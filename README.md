@@ -27,7 +27,7 @@ Hi,I'm Dimitar!
 - :zap: In my free time, I solve problems  and read tech articles.
 
 - :mailbox:How to reach me: **I currently cannot provide information on how to reach me.I would like to work for a little more before I decide to work with others!**
-div/>
+>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
